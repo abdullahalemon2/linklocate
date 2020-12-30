@@ -6,11 +6,11 @@ $git clone https://github.com/thewhiteh4t/seeker.git
 $cd seeker/
 $chmod 777 termux_install.sh
 $./termux_install.sh
-
+```
 
 ## Usage
 
-
+```bash
 $python3 seeker.py -h
 
 usage: $seeker.py [-h] [-s SUBDOMAIN]
