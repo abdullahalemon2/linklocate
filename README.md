@@ -2,7 +2,7 @@
 ### Installation 
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+*git clone https://github.com/thewhiteh4t/seeker.git
 cd seeker/
 chmod 777 termux_install.sh
 ./termux_install.sh
